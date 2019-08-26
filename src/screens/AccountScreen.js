@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native'
 const AccountScreen = () => {
     return (
         <View>
-            <Text style={{ fontSize: 48}}>Account Screen</Text>
+            <Text style={{ fontSize: 48 }}>Account Screen</Text>
         </View>
     )
 }
